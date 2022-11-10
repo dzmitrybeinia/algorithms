@@ -1,8 +1,8 @@
-package com.dzmitrybeinia.algoexpert.arrays.two_number_sum;
+package com.dzmitrybeinia.algoexpert;
 
 import java.util.*;
 
-class Program {
+class TwoNumberSum {
 
     public static void main(String[] args) {
         int [] array = new int[]{3, 5, -4, 8, 11, 1, -1, 6};
